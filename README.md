@@ -18,7 +18,7 @@ This is a simple RESTful API for a To-Do List application built with Node.js, Ex
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-github-repo-url>
+    git clone https://github.com/Abhay-8511/To-Do-List-API-Project.git
     cd todo-list-api
     ```
 
