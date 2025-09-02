@@ -31,9 +31,7 @@ This is a simple RESTful API for a To-Do List application built with Node.js, Ex
     Create a `.env` file in the root directory and add the following variables. Replace the placeholders with your actual MongoDB Atlas connection string and a port number.
 
     ```
-    PORT=3000
-MONGODB_URI=mongodb+srv://Rajesh:3Jvl6eChl3LfgWes@cluster0.5pu8vlh.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-    ```
+
 
 4.  **Run the server:**
     ```bash
